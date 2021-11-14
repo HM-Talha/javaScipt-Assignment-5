@@ -1,0 +1,15 @@
+body{
+    background-image: url(./background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;    
+    text-align: center;
+    color: white !important;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: rosybrown;
+    text-decoration: underline;
+}
